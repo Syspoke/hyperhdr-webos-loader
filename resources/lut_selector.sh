@@ -2,6 +2,7 @@
 
 LOCKFILE="/tmp/lut_script.lock"
 HYPERHDR_PATH="/media/developer/apps/usr/palm/services/org.webosbrew.hyperhdr.loader.service/hyperhdr"
+ROOT_HYPERHDR_PATH="/home/root/.hyperhdr"
 TMP_DIR="/tmp"
 REQUIRED_SPACE_MB=460
 
